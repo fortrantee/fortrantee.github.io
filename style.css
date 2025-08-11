@@ -1,0 +1,22 @@
+body {
+    background: #05050a;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    padding-top: 10px;
+    font-size: 50px;
+}
+
+p {
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    padding-top: 10px;
+    font-size: 30px;
+}
